@@ -1,4 +1,4 @@
-This is a project developed by a team of 4 students as a final submission of the course Advanced Computing Concepts at the University of Windsor. The project name is Anveshan - which is derived from Hindi Vocabulary which means to Explore/Search. The english word innovation is derived from this word.
+This is a project developed by a team of 4 students of the University of Windsor. The project name is Anveshan - which is derived from Hindi Vocabulary which means to Explore/Search. The english word innovation is derived from this word.
 
 The link for presentation video on Youtube: https://www.youtube.com/watch?v=IOMcwxnTPAI
 
